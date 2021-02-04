@@ -112,7 +112,7 @@ const AppNavbar = () => {
             <Navbar color="dark" dark expand="lg" className="sticky-top">
                 <Container>
                     <Link to="/" className="text-white text-decoration-none">
-                        Hosikun React`s Blog
+                        Hosikun IT Blog
                     </Link>
                     <NavbarToggler onClick={handleToggle} />
                     <Collapse isOpen={isOpen} navbar>
